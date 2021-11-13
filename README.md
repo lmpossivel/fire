@@ -52,38 +52,3 @@ console.log(Hi + ' ' + 'Hello');
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <br>
-
-### Connect with me:
-
-
-[<img align="left" alt="starrymoon" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Storarry | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Storarry | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Storarry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Storarry | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br>
-<br>
-<br>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=freezywt&show_icons=true">
-</p>
-</details>
-
-<details>
-  <summary>:zap: GitHub Most Used Languages</summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freezywt&hide=batchfile" />
-</p>
-</details>
-
-
-[website]: 
-[course]: 
-[twitter]: 
-[youtube]: 
-[instagram]: 
-[linkedin]: 
