@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{snow}!</strong>
+## 💜 Olá, meu nome é <strong>snow!</strong>
 
 💬 Malote com a tropa.
 
